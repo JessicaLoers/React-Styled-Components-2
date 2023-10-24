@@ -8,9 +8,10 @@ export default createGlobalStyle`
   }
 
   :root {
-    --color-primary: #364F6B;
-    --color-secondary: #3FC1C9;
-    --color-danger: #FF0000;
+    --color-primary: #f4f6f7;
+    --color-secondary: #d7dbd7dd;
+    --color-danger: #f44336;
+    --color-button: #1a237e 
   }
 
   body {
